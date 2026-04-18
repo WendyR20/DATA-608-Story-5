@@ -1,0 +1,284 @@
+Date,Time,Latitude,Longitude,Max Winds (kt),SS  HWS,RMW nm,Central Pressure (mb),States Affected,Storm Names,States Affected Names,SS HWS max,Central Pressure (mb) min,States Affected Names All
+1851-06-25 00:00:00,2100Z,28.2N,96.8W,80,1,---,974,BTX1,---------------,Texas,4,927.0,Texas
+1851-08-23 00:00:00,2100Z,30.1N,85.7W,100,3,---,950,"AFL3,IGA1","""Great Middle Florida""","Florida, Georgia",3,950.0,"Florida, Georgia"
+1852-08-22 00:00:00,1200Z,23.8N,81.1W,90,2,---,970,BFL2,---------------,Florida,4,927.0,Florida
+1852-09-12 00:00:00,0000Z,28.0N,82.8W,70,1,---,982,BFL1,---------------,Florida,4,927.0,Florida
+1852-10-09 00:00:00,2100Z,29.9N,84.4W,90,2,---,965,"AFL2,IGA1","""Middle Florida""","Florida, Georgia",2,965.0,"Florida, Georgia"
+1853-10-21 00:00:00,0600Z,30.9N,80.9W,70,1,---,965,GA1,---------------,Georgia,4,927.0,Georgia
+1854-06-26 00:00:00,1200Z,26.2N,97.0W,70,1,---,982,ATX1,---------------,Texas,4,927.0,Texas
+1854-09-08 00:00:00,2000Z,31.7N,81.1W,100,3,40,950,"GA3,SC2,DFL1","""Great Carolina""","Florida, South Carolina, Georgia",3,950.0,"Florida, South Carolina, Georgia"
+1854-09-18 00:00:00,2100Z,28.9N,95.3W,90,2,---,965,BTX2,"""Matagorda""",Texas,2,965.0,Texas
+1855-09-16 00:00:00,0300Z,29.2N,89.5W,110,3,---,945,"LA3,MS3","""Middle Gulf Shore""","Mississippi, Louisiana",3,945.0,"Mississippi, Louisiana"
+1856-08-10 00:00:00,1800Z,29.2N,91.1W,130,4,10,934,LA4,"""Last Island""",Louisiana,4,934.0,Louisiana
+1856-08-31 00:00:00,0600Z,30.2N,85.9W,90,2,---,965,"AFL2,IAL1,IGA1","""Southeastern States""","Florida, Georgia, Alabama",2,965.0,"Florida, Georgia, Alabama"
+1857-09-13 00:00:00,0000Z,33.9N,78.0W,90,2,---,961,NC2,---------------,North Carolina,4,927.0,North Carolina
+1858-09-16 00:00:00,1700Z,40.9N,72.2W,80,1,45,976,NY1,"""New England""",New York,1,976.0,"Rhode Island, New York, Massachusetts, Connecticut"
+1859-09-16 00:00:00,0000Z,30.3N,88.1W,70,1,---,982,"AL1,AFL1",---------------,"Alabama, Florida",4,927.0,"Alabama, Florida"
+1859-10-28 00:00:00,1800Z,27.7N,82.8W,80,1,---,974,"BFL2,CFL1",---------------,Florida,4,927.0,Florida
+1860-08-11 00:00:00,2000Z,29.2N,90.0W,110,3,---,945,"LA3,MS3,AL2",---------------,"Mississippi, Louisiana, Alabama",4,927.0,"Mississippi, Louisiana, Alabama"
+1860-09-15 00:00:00,0400Z,29.3N,89.6W,90,2,---,965,"LA2,MS2,AL1",---------------,"Mississippi, Louisiana, Alabama",4,927.0,"Mississippi, Louisiana, Alabama"
+1860-10-02 00:00:00,1700Z,29.5N,91.4W,90,2,---,965,LA2,---------------,Louisiana,4,927.0,Louisiana
+1861-08-16 00:00:00,0000Z,24.2N,82.0W,70,1,---,978,BFL1,"""Key West""",Florida,1,978.0,Florida
+1861-09-27 00:00:00,1700Z,34.5N,77.4W,70,1,---,985,NC1,"""Equinoctial""",North Carolina,1,985.0,North Carolina
+1861-11-02 00:00:00,1000Z,34.7N,76.6W,70,1,---,985,NC1,"""Expedition""",North Carolina,1,985.0,North Carolina
+1865-09-13 00:00:00,2100Z,29.8N,93.4W,90,2,---,965,"LA2,CTX1","""Sabine River""","Louisiana, Texas",2,965.0,"Louisiana, Texas"
+1865-10-23 00:00:00,1000Z,24.6N,81.7W,90,2,---,969,BFL2,---------------,Florida,4,927.0,Florida
+1866-07-15 00:00:00,1200Z,28.5N,96.5W,90,2,---,965,BTX2,---------------,Texas,4,927.0,Texas
+1867-06-22 00:00:00,1400Z,32.9N,79.7W,70,1,---,985,SC1,---------------,South Carolina,4,927.0,South Carolina
+1867-10-02 00:00:00,1500Z,25.4N,97.1W,70,1,---,969,ATX1,"""Galveston""",Texas,4,936.0,Texas
+1869-08-17 00:00:00,0700Z,28.1N,96.8W,90,2,---,965,BTX2,"""Lower Texas Coast""",Texas,2,965.0,Texas
+1869-09-05 00:00:00,1200Z,29.2N,90.0W,70,1,---,982,LA1,---------------,Louisiana,4,927.0,"Louisiana, New York"
+1869-10-04 00:00:00,1900Z,41.3N,70.5W,80,1,30,965,MA1,"""Saxby's Gale""",Massachusetts,2,965.0,"Maine, Massachusetts"
+1870-07-30 00:00:00,1800Z,30.5N,88.0W,70,1,---,982,AL1,"""Mobile""",Alabama,1,982.0,Alabama
+1870-10-10 00:00:00,0500Z,24.6N,80.8W,70,1,---,970,"BFL1,CFL1","""Twin Key West (I)""",Florida,1,970.0,Florida
+1870-10-20 00:00:00,1400Z,24.7N,82.8W,80,1,---,977,BFL1,"""Twin Key West (II)""",Florida,1,977.0,Florida
+1871-08-17 00:00:00,0200Z,27.1N,80.2W,100,3,30,955,"CFL3,DFL1,AFL1",---------------,Florida,4,927.0,Florida
+1871-08-25 00:00:00,0500Z,27.6N,80.3W,90,2,---,965,"CFL2,DFL1",---------------,Florida,4,927.0,Florida
+1871-09-06 00:00:00,1400Z,29.2N,83.0W,70,1,---,982,"AFL1,BFL1",---------------,Florida,4,927.0,Florida
+1873-09-19 00:00:00,1500Z,29.9N,84.4W,70,1,---,982,AFL1,---------------,Florida,4,927.0,Florida
+1873-10-07 00:00:00,0100Z,26.5N,82.2W,100,3,25,959,"BFL3,CFL2,DFL1",---------------,Florida,4,927.0,Florida
+1874-09-28 00:00:00,0300Z,29.1N,82.9W,70,1,---,982,AFL1,---------------,Florida,4,927.0,"North Carolina, Florida, South Carolina"
+1875-09-16 00:00:00,2100Z,27.7N,97.2W,100,3,---,955,"BTX3,ATX2",---------------,Texas,4,927.0,Texas
+1876-09-17 00:00:00,1400Z,34.4N,77.6W,80,1,---,980,"NC1,VA1",---------------,"North Carolina, Virginia",4,927.0,"North Carolina, Virginia"
+1876-10-20 00:00:00,0500Z,25.8N,81.4W,90,2,---,973,"BFL2,CFL1",---------------,Florida,4,927.0,Florida
+1877-09-18 00:00:00,1600Z,29.2N,91.0W,70,1,---,982,LA1,---------------,Louisiana,4,927.0,Louisiana
+1877-10-03 00:00:00,0500Z,30.0N,85.5W,100,3,---,955,"AFL3,IGA1",---------------,"Florida, Georgia",4,927.0,"Florida, Georgia"
+1878-09-10 00:00:00,1100Z,28.6N,82.6W,90,2,---,970,"AFL2,BFL2,DFL1",---------------,Florida,4,927.0,Florida
+1878-10-23 00:00:00,0400Z,34.8N,77.1W,90,2,---,963,"NC2,VA1,MD1,DE1, NJ1,IPA1",---------------,"Pennsylvania, North Carolina, Virginia, Maryland, Delaware, New Jersey",4,927.0,"Pennsylvania, North Carolina, Virginia, Maryland, Delaware, New Jersey"
+1879-08-18 00:00:00,1200Z,34.5N,76.8W,100,3,15,971,"NC3,VA2",---------------,"North Carolina, Virginia",4,927.0,"North Carolina, Virginia"
+1879-09-01 00:00:00,1600Z,29.5N,91.4W,110,3,,945,LA3,---------------,Louisiana,4,927.0,Louisiana
+1880-08-13 00:00:00,0100Z,25.8N,97.0W,110,3,10,931,ATX3,---------------,Texas,4,927.0,Texas
+1880-08-29 00:00:00,1200Z,28.2N,80.6W,90,2,---,972,"CFL2,DFL1",---------------,Florida,4,927.0,Florida
+1880-09-09 00:00:00,1000Z,34.7N,77.1W,70,1,---,987,NC1,---------------,North Carolina,4,927.0,North Carolina
+1880-10-08 00:00:00,1900Z,28.9N,82.7W,70,1,---,982,AFL1,---------------,Florida,4,927.0,Florida
+1881-08-28 00:00:00,0200Z,31.7N,81.1W,90,2,15,970,"GA2,SC1",---------------,"South Carolina, Georgia",4,927.0,"South Carolina, Georgia"
+1881-09-09 00:00:00,1600Z,33.9N,78.1W,90,2,15,975,NC2,---------------,North Carolina,4,927.0,North Carolina
+1882-09-10 00:00:00,0200Z,30.4N,86.8W,110,3,---,949,"AFL3,IAL1",---------------,"Florida, Alabama",4,927.0,"Florida, Alabama"
+1882-10-11 00:00:00,0400Z,29.5N,83.3W,70,1,---,985,AFL1,---------------,Florida,4,927.0,Florida
+1883-09-11 00:00:00,1300Z,33.9N,78.5W,90,2,---,965,"NC2,SC1",---------------,"North Carolina, South Carolina",4,927.0,"North Carolina, South Carolina"
+1885-08-25 00:00:00,1200Z,32.6N,80.1W,90,2,---,970,"SC2,NC1,GA1,DFL1",---------------,"North Carolina, Florida, South Carolina, Georgia",4,927.0,"North Carolina, Florida, South Carolina, Georgia"
+1886-06-14 00:00:00,1600Z,29.6N,94.2W,85,2,---,970,"CTX2,LA2",---------------,"Louisiana, Texas",4,927.0,"Louisiana, Texas"
+1886-06-21 00:00:00,1100Z,30.1N,84.0W,85,2,---,970,"AFL2,IGA1",---------------,"Florida, Georgia",4,927.0,"Florida, Georgia"
+1886-06-30 00:00:00,2100Z,29.7N,85.2W,85,2,---,970,"AFL2,IGA1",---------------,"Florida, Georgia",4,927.0,"Florida, Georgia"
+1886-07-19 00:00:00,0100Z,28.8N,82.7W,70,1,---,982,AFL1,---------------,Florida,4,927.0,Florida
+1886-08-20 00:00:00,1300Z,28.1N,96.8W,130,4,15,925,BTX4,"""Indianola""",Texas,4,925.0,Texas
+1886-09-23 00:00:00,0700Z,26.0N,97.2W,80,1,---,973,"ATX1,BTX1",---------------,Texas,4,927.0,Texas
+1886-10-12 00:00:00,2200Z,29.8N,93.5W,105,3,---,950,"LA3,CTX2",---------------,"Louisiana, Texas",4,927.0,"Louisiana, Texas"
+1887-07-27 00:00:00,1500Z,30.4N,86.6W,75,1,---,978,"AFL1,IAL1",---------------,"Florida, Alabama",4,927.0,"Florida, Alabama"
+1887-08-20 00:00:00,1200Z,35.0N,75.0W,65,1,---,946,NC1,---------------,North Carolina,4,927.0,North Carolina
+1887-09-21 00:00:00,1700Z,26.1N,97.2W,75,1,40,973,ATX2,---------------,Texas,4,927.0,Texas
+1887-10-19 00:00:00,0200Z,29.1N,90.4W,75,1,---,978,LA1,---------------,Louisiana,4,927.0,Louisiana
+1888-06-17 00:00:00,0600Z,28.7N,95.7W,70,1,---,982,BTX1,---------------,Texas,4,927.0,Texas
+1888-08-16 00:00:00,1900Z,25.8N,80.1W,110,3,---,945,"CFL3,BFL1",---------------,Florida,4,927.0,Florida
+1888-10-11 00:00:00,0100Z,29.2N,83.1W,95,2,10,970,"AFL2,DFL1",---------------,Florida,4,927.0,Florida
+1889-09-23 00:00:00,0400Z,29.1N,89.8W,70,1,---,982,LA1,---------------,Louisiana,4,927.0,Louisiana
+1891-07-05 00:00:00,2200Z,28.8N,95.5W,80,1,---,974,"BTX1,CTX1",---------------,Texas,4,927.0,Texas
+1891-08-24 00:00:00,1500Z,25.4N,80.2W,70,1,---,985,CFL1,---------------,Florida,4,927.0,Florida
+1893-08-24 00:00:00,1200Z,40.7N,73.9W,75,1,30,986,"NY1,CT1","""Midnight Storm""","New York, Connecticut",3,954.0,"New York, Connecticut"
+1893-09-07 00:00:00,1400Z,29.2N,91.1W,85,2,---,970,LA2,---------------,Louisiana,4,927.0,Louisiana
+1893-10-02 00:00:00,0800Z,29.3N,89.8W,115,4,10,948,LA4,"""Chenier Caminanda""",Louisiana,4,948.0,"Mississippi, Louisiana, Alabama"
+1893-10-13 00:00:00,1300Z,33.0N,79.5W,105,3,15,955,"SC3,NC2,IVA1",---------------,"North Carolina, South Carolina, Virginia",4,927.0,"North Carolina, South Carolina, Virginia"
+1894-09-25 00:00:00,1100Z,24.7N,82.0W,80,1,---,985,BFL1,---------------,Florida,4,927.0,Florida
+1894-10-09 00:00:00,0300Z,30.2N,85.5W,105,3,---,950,"AFL3,IGA1",---------------,"Florida, Georgia",4,927.0,"Florida, Georgia"
+1895-08-30 00:00:00,0400Z,25.0N,97.6W,65,1,---,963,ATX1,---------------,Texas,4,927.0,Texas
+1896-07-07 00:00:00,1700Z,30.4N,86.5W,85,2,---,970,AFL2,---------------,Florida,4,927.0,Florida
+1896-09-10 00:00:00,1300Z,41.2N,70.6W,70,1,30,985,"RI1,MA1",---------------,"Rhode Island, Massachusetts",4,927.0,"Rhode Island, Massachusetts"
+1896-09-29 00:00:00,1100Z,29.2N,83.1W,110,3,15,960,"AFL3,DFL3,GA2,SC1,INC1,IVA1",---------------,"North Carolina, Virginia, Florida, South Carolina, Georgia",4,927.0,"North Carolina, Virginia, Florida, South Carolina, Georgia"
+1897-09-13 00:00:00,0500Z,29.7N,93.8W,75,1,---,978,"LA1,TX1",---------------,"Louisiana, Texas",4,927.0,"Louisiana, Texas"
+1898-08-02 00:00:00,2300Z,29.7N,84.8W,70,1,---,982,AFL1,---------------,Florida,4,927.0,Florida
+1898-08-31 00:00:00,0700Z,32.1N,80.8W,75,1,---,980,"GA1,SC1",---------------,"South Carolina, Georgia",4,927.0,"South Carolina, Georgia"
+1898-10-02 00:00:00,1600Z,30.9N,81.4W,115,4,20,938,"GA4,DFL2",---------------,"Florida, Georgia",4,927.0,"Florida, Georgia"
+1899-08-01 00:00:00,1700Z,29.7N,84.7W,85,2,10,979,AFL2,---------------,Florida,4,927.0,Florida
+1899-08-18 00:00:00,0100Z,35.2N,75.8W,105,3,---,945,NC3,---------------,North Carolina,4,927.0,North Carolina
+1899-10-31 00:00:00,0900Z,33.6N,79.0W,95,2,35,955,"NC2,SC2",---------------,"North Carolina, South Carolina",4,927.0,"North Carolina, South Carolina"
+1900-09-09 00:00:00,0200Z,29.1N,95.1W,120,4,15,936,CX4,"""Galveston""",CX,4,936.0,CX
+1901-07-11 00:00:00,0700Z,36.0N,75.8W,70,1,---,983,NC1,---------------,North Carolina,4,927.0,North Carolina
+1901-08-14 00:00:00,2100Z,29.3N,89.6W,75,1,---,973,LA1,---------------,Louisiana,4,927.0,Louisiana
+1903-09-11 00:00:00,2300Z,26.1N,80.1W,75,1,45,976,CFL1,---------------,Florida,4,927.0,Florida
+1904-09-14 00:00:00,1300Z,33.1N,79.2W,70,1,---,985,SC1,---------------,South Carolina,4,927.0,South Carolina
+1904-10-17 00:00:00,0800Z,25.3N,80.3W,70,1,---,985,CFL1,---------------,Florida,4,927.0,Florida
+1906-06-17 00:00:00,0300Z,24.7N,81.1W,70,1,---,986,"BFL1,CFL1",---------------,Florida,4,927.0,Florida
+1906-09-17 00:00:00,2200Z,33.3N,79.2W,80,1,30,977,"SC1,NC1",---------------,"North Carolina, South Carolina",4,927.0,"North Carolina, South Carolina"
+1906-09-27 00:00:00,1100Z,30.2N,88.6W,95,2,45,958,"MS2,AL2,AFL2,LA1",---------------,"Mississippi, Florida, Louisiana, Alabama",4,927.0,"Mississippi, Florida, Louisiana, Alabama"
+1906-10-18 00:00:00,1000Z,24.7N,81.1W,105,3,10,953,"BFL3,CFL3",---------------,Florida,4,927.0,Florida
+1908-07-31 00:00:00,1100Z,34.6N,77.1W,70,1,---,985,NC1,---------------,North Carolina,4,927.0,North Carolina
+1909-06-29 00:00:00,1700Z,26.1N,97.2W,85,2,---,972,ATX2,---------------,Texas,4,927.0,Texas
+1909-07-21 00:00:00,1700Z,28.9N,95.3W,100,3,20,959,CTX3,"""Velasco""",Texas,3,959.0,Texas
+1909-08-27 00:00:00,2200Z,23.7N,97.7W,65,1,---,955,ATX1,---------------,Texas,4,927.0,Texas
+1909-09-21 00:00:00,0000Z,29.5N,91.3W,100,3,30,952,"LA3,MS2","""Grand Isle""","Mississippi, Louisiana",3,952.0,"Mississippi, Louisiana"
+1909-10-11 00:00:00,1800Z,24.7N,81.0W,100,3,20,957,"BFL3,CFL3",---------------,Florida,4,927.0,Florida
+1910-09-14 00:00:00,2200Z,26.9N,97.4W,90,2,---,965,ATX2,---------------,Texas,4,927.0,Texas
+1910-10-17 00:00:00,1900Z,24.6N,82.6W,90,2,---,941,BFL2,---------------,Florida,4,927.0,Florida
+1911-08-11 00:00:00,2200Z,30.3N,87.5W,70,1,---,982,"AFL1,AL1",---------------,"Florida, Alabama",4,927.0,"Florida, Alabama"
+1911-08-28 00:00:00,1000Z,32.2N,80.7W,85,2,25,972,"GA1,SC2",---------------,"South Carolina, Georgia",4,927.0,"South Carolina, Georgia"
+1912-09-14 00:00:00,0800Z,30.3N,88.4W,65,1,50,986,"AL1,AFL1",---------------,"Alabama, Florida",4,927.0,"Alabama, Florida"
+1912-10-16 00:00:00,1800Z,27.1N,97.4W,85,2,---,970,ATX2,---------------,Texas,4,927.0,Texas
+1913-06-28 00:00:00,0100Z,27.1N,97.4W,65,1,---,986,ATX1,---------------,Texas,4,927.0,Texas
+1913-09-03 00:00:00,0800Z,34.7N,76.6W,75,1,40,976,NC1,---------------,North Carolina,4,927.0,North Carolina
+1913-10-08 00:00:00,1400Z,33.1N,79.4W,65,1,---,989,SC1,---------------,South Carolina,4,927.0,South Carolina
+1915-08-01 00:00:00,1800Z,28.7N,80.8W,65,1,15,990,DFL1,---------------,Florida,4,927.0,Florida
+1915-08-17 00:00:00,0700Z,29.2N,95.1W,115,4,25,940,"CTX4,BTX1,LA1","""Galveston""","Louisiana, Texas",4,936.0,"Louisiana, Texas"
+1915-09-04 00:00:00,1100Z,30.0N,85.4W,80,1,25,982,AFL1,---------------,Florida,4,927.0,Florida
+1915-09-29 00:00:00,1800Z,29.0N,90.3W,110,3,20,944,"LA3,MS2","""New Orleans""","Mississippi, Louisiana",3,944.0,"Mississippi, Louisiana"
+1916-07-05 00:00:00,2100Z,30.4N,88.4W,105,3,20,950,"MS3,AL2,AFL2",---------------,"Mississippi, Florida, Alabama",4,927.0,"Mississippi, Florida, Alabama"
+1916-07-14 00:00:00,0800Z,32.9N,79.5W,95,2,20,960,SC2,---------------,South Carolina,4,927.0,South Carolina
+1916-08-18 00:00:00,2200Z,27.0N,97.4W,115,4,25,932,ATX4,---------------,Texas,4,927.0,Texas
+1916-10-18 00:00:00,1400Z,30.4N,87.4W,95,2,20,970,"AL2,AFL2",---------------,"Alabama, Florida",4,927.0,"Alabama, Florida"
+1917-09-29 00:00:00,0200Z,30.4N,86.6W,100,3,40,949,"AFL3,LA2,AL1",---------------,"Florida, Louisiana, Alabama",4,927.0,"Florida, Louisiana, Alabama"
+1918-08-06 00:00:00,1800Z,29.8N,93.2W,105,3,10,955,"LA3,CTX1",---------------,"Louisiana, Texas",4,927.0,"Louisiana, Texas"
+1918-08-24 00:00:00,2100Z,34.8N,76.8W,65,1,30,988,NC1,---------------,North Carolina,4,927.0,North Carolina
+1919-09-10 00:00:00,0700Z,24.6N,82.9W,130,4,15,927,"BFL4,CFL2",---------------,Florida,4,927.0,Florida
+1920-09-22 00:00:00,0100Z,29.1N,90.8W,85,2,30,975,LA2,---------------,Louisiana,4,927.0,Louisiana
+1921-06-22 00:00:00,1800Z,28.5N,95.9W,80,1,15,980,"BTX1,CTX1",---------------,Texas,4,927.0,Texas
+1921-10-25 00:00:00,2000Z,28.1N,82.8W,100,3,20,958,"BFL3,AFL2,DFL1","""Tampa Bay""",Florida,3,958.0,Florida
+1923-10-16 00:00:00,0600Z,29.2N,91.0W,70,1,45,983,"LA1,MS1",---------------,"Mississippi, Louisiana",4,927.0,"Mississippi, Louisiana"
+1924-08-26 00:00:00,1900Z,41.2N,70.2W,65,1,40,968,MA1,---------------,Massachusetts,4,927.0,"North Carolina, Massachusetts"
+1924-09-15 00:00:00,1400Z,29.7N,85.3W,75,1,---,980,AFL1,---------------,Florida,4,927.0,Florida
+1924-10-21 00:00:00,0100Z,25.8N,81.8W,80,1,20,975,"BFL1,CFL1",---------------,Florida,4,927.0,Florida
+1926-07-28 00:00:00,1000Z,29.0N,80.8W,90,2,15,967,"DFL2,CFL1",---------------,Florida,4,927.0,Florida
+1926-08-25 00:00:00,2300Z,29.2N,90.9W,100,3,20,955,LA3,---------------,Louisiana,4,927.0,Louisiana
+1926-09-18 00:00:00,1200Z,25.6N,80.3W,125,4,20,930,"CFL4,BFL3","""Great Miami""",Florida,4,930.0,Florida
+1926-10-21 00:00:00,0300Z,25.0N,80.3W,75,1,20,949,"BFL1,CFL1",---------------,Florida,4,927.0,Florida
+1928-08-08 00:00:00,0700Z,27.3N,80.2W,85,2,10,977,CFL2,---------------,Florida,4,927.0,Florida
+1928-09-17 00:00:00,0000Z,26.7N,80.0W,125,4,30,929,"CFL4,BFL3,AFL1,DFL1","""Lake Okeechobee""",Florida,4,929.0,Florida
+1929-06-28 00:00:00,2100Z,28.3N,96.4W,80,1,10,982,BTX1,---------------,Texas,4,927.0,Texas
+1929-09-28 00:00:00,1300Z,25.0N,80.5W,100,3,30,948,"BFL3, CFL3",---------------,Florida,4,927.0,Florida
+1932-08-14 00:00:00,0400Z,29.0N,95.2W,130,4,10,935,"CTX4,BTX1","""Freeport""",Texas,4,935.0,Texas
+1932-09-01 00:00:00,0500Z,30.2N,88.1W,75,1,---,979,"AFL1,AL1,MS1",---------------,"Florida, Mississippi, Alabama",4,927.0,"Florida, Mississippi, Alabama"
+1933-07-30 00:00:00,1600Z,27.1N,80.1W,65,1,---,988,CFL1,---------------,Florida,4,927.0,Florida
+1933-08-05 00:00:00,0100Z,25.8N,97.2W,80,1,25,975,ATX,---------------,Texas,4,927.0,Texas
+1933-08-23 00:00:00,1000Z,35.8N,75.6W,80,1,40,963,"NC1,VA1,MD1",---------------,"North Carolina, Maryland, Virginia",4,927.0,"North Carolina, Maryland, Virginia"
+1933-09-04 00:00:00,0500Z,26.9N,80.1W,110,3,15,948,CF3,---------------,CF,4,927.0,CF
+1933-09-16 00:00:00,1200Z,35.2N,75.4W,85,2,40,952,"NC2,VA1",---------------,"North Carolina, Virginia",4,927.0,"North Carolina, Virginia"
+1934-06-16 00:00:00,1900Z,29.7N,91.7W,85,2,30,966,LA2,---------------,Louisiana,4,927.0,Louisiana
+1934-07-25 00:00:00,1700Z,28.1N,96.8W,75,1,25,979,ATX1,---------------,Texas,4,927.0,Texas
+1934-09-08 00:00:00,2200Z,39.7N,73.4W,65,1,---,984,NJ1,---------------,New Jersey,4,927.0,"North Carolina, New Jersey"
+1935-09-03 00:00:00,0200Z,24.8N,80.8W,160,5,5,892,"CFL5, BFL5","""Labor Day""",Florida,5,892.0,Florida
+1935-11-04 00:00:00,1800Z,25.9N,80.1W,85,2,10,973,"CFL2, BFL1",---------------,Florida,4,927.0,Florida
+1936-06-27 00:00:00,1600Z,27.9N,97.0W,70,1,5,987,BTX1,---------------,Texas,4,927.0,Texas
+1936-07-31 00:00:00,1400Z,30.4N,86.6W,90,2,20,964,"AFL2, I-AL1",---------------,"Florida, Alabama",4,927.0,"Florida, Alabama"
+1936-09-18 00:00:00,1000Z,35.6N,74.8W,75,1,35,964,"NC1, VA1",---------------,"North Carolina, Virginia",4,927.0,"North Carolina, Virginia"
+1938-08-15 00:00:00,0100Z,29.8N,93.4W,65,1,---,995,LA1,---------------,Louisiana,4,927.0,Louisiana
+1938-09-21 00:00:00,2000Z,40.7N,72.9W,105,3,40,941,NY3,"""Great New England""",New York,3,941.0,"Rhode Island, New York, Massachusetts, Connecticut"
+1939-08-11 00:00:00,2300Z,27.2N,80.2W,65,1,---,987,CFL1,---------------,Florida,4,927.0,Florida
+1940-08-07 00:00:00,2100Z,29.7N,94.1W,85,2,10,972,"CTX2, LA2",---------------,"Louisiana, Texas",4,927.0,"Louisiana, Texas"
+1941-09-23 00:00:00,2200Z,28.8N,95.6W,110,3,20,942,"CTX3,BTX2",---------------,Texas,4,927.0,Texas
+1941-10-06 00:00:00,1000Z,25.5N,80.2W,85,2,10,980,"CFL2,BFL1",---------------,Florida,4,927.0,Florida
+1942-08-21 00:00:00,1300Z,29.5N,94.6W,65,1,---,992,CTX1,---------------,Texas,4,927.0,Texas
+1942-08-30 00:00:00,0900Z,28.3N,96.6W,100,3,20,950,"BTX3,CTX2",---------------,Texas,4,927.0,Texas
+1943-07-27 00:00:00,1800Z,29.5N,94.6W,90,2,15,967,CTX2,---------------,Texas,4,927.0,Texas
+1944-08-01 00:00:00,2300Z,33.9N,78.1W,70,1,10,985,NC1,---------------,North Carolina,4,927.0,North Carolina
+1944-09-14 00:00:00,1300Z,35.2N,75.3W,90,2,15,940,"NC2,VA2","""Great Atlantic""","North Carolina, Virginia",2,940.0,"North Carolina, New York, Virginia, New Jersey"
+1944-10-18 00:00:00,2100Z,24.6N,82.9W,105,3,30,949,BFL3,---------------,Florida,4,927.0,Florida
+1945-06-24 00:00:00,0800Z,28.6N,82.7W,70,1,---,985,AFL1,---------------,Florida,4,927.0,Florida
+1945-08-27 00:00:00,1200Z,28.2N,96.7W,100,3,10,963,"BTX3,ATX1,CTX1",---------------,Texas,4,927.0,Texas
+1945-09-15 00:00:00,1930Z,25.3N,80.3W,115,4,10,949,"CFL4,BFL2,DFL1",---------------,Florida,4,927.0,Florida
+1946-10-08 00:00:00,0200Z,27.5N,82.6W,75,1,35,980,"BFL1,AFL1",---------------,Florida,4,927.0,Florida
+1947-08-24 00:00:00,2200Z,29.2N,94.9W,70,1,---,984,CTX1,---------------,Texas,4,927.0,Texas
+1947-09-16 00:00:00,1630Z,26.1N,80.1W,115,4,15,943,"CFL4,BFL2",---------------,Florida,4,927.0,Florida
+1947-10-12 00:00:00,0200Z,25.4N,81.2W,80,1,---,975,"BFL1,CFL1",---------------,Florida,4,927.0,Florida
+1948-09-04 00:00:00,0700Z,29.1N,90.5W,70,1,---,983,LA1,---------------,Louisiana,4,927.0,Louisiana
+1948-09-21 00:00:00,1700Z,24.6N,81.6W,105,3,10,955,"BFL4,CFL2",---------------,Florida,4,927.0,Florida
+1948-10-05 00:00:00,1800Z,24.7N,81.2W,90,2,15,963,"BFL2,CFL2",---------------,Florida,4,927.0,Florida
+1949-08-24 00:00:00,1200Z,34.3N,76.1W,70,1,25,977,NC1,---------------,North Carolina,4,927.0,North Carolina
+1949-10-04 00:00:00,0500Z,28.8N,95.6W,95,2,15,965,"CTX2,BTX1",---------------,Texas,4,927.0,Texas
+1950-08-31 00:00:00,0300Z,30.2N,88.0W,75,1,20,979,"AL1, AFL1",Baker,"Alabama, Florida",1,979.0,"Alabama, Florida"
+1950-10-18 00:00:00,0500Z,25.7N,80.2W,115,4,5,955,"CFL4,DFL1",King,Florida,4,955.0,Florida
+1952-08-31 00:00:00,0300Z,32.3N,80.6W,85,2,---,980,SC2,Able,South Carolina,2,980.0,South Carolina
+1953-08-14 00:00:00,0500Z,35.4N,76.1W,75,1,---,978,NC1,Barbara,North Carolina,1,975.0,North Carolina
+1953-09-26 00:00:00,1500Z,30.3N,86.2W,80,1,---,975,AFL1,Florence,Florida,1,956.0,Florida
+1953-10-09 00:00:00,1500Z,26.7N,82.2W,75,1,---,980,BFL1,Hazel,Florida,4,938.0,Florida
+1954-08-31 00:00:00,0300Z,35.4N,75.1W,75,1,25,960,NC1,Carol,North Carolina,3,955.0,"North Carolina, New York, Rhode Island, Massachusetts, Connecticut"
+1954-09-11 00:00:00,1830Z,41.4N,70.5W,95,2,25,950,"MA2,NY1,RI1",Edna,"Rhode Island, Massachusetts, New York",2,943.0,"North Carolina, Rhode Island, New York, Massachusetts"
+1954-10-15 00:00:00,1530Z,33.9N,78.6W,115,4,20,938,"SC4,NC4",Hazel,"North Carolina, South Carolina",4,938.0,"North Carolina, South Carolina"
+1955-08-12 00:00:00,1500Z,34.7N,76.7W,85,2,30,962,"NC2,VA1",Connie,"North Carolina, Virginia",2,962.0,"North Carolina, Virginia"
+1955-09-19 00:00:00,1100Z,34.7N,76.7W,90,2,25,955,NC2,Ione,North Carolina,2,955.0,North Carolina
+1956-09-24 00:00:00,1000Z,29.1N,89.4W,75,1,20,980,LA1,Flossy,Louisiana,1,974.0,Louisiana
+1957-06-27 00:00:00,1330Z,29.8N,93.7W,110,3,15,946,"LA3,CTX2",Audrey,"Louisiana, Texas",3,946.0,"Louisiana, Texas"
+1958-09-27 00:00:00,1800Z,33.9N,77.6W,110,3,20,938,NC3,Helene,North Carolina,3,938.0,North Carolina
+1959-07-09 00:00:00,0400Z,33.0N,79.6W,65,1,20,995,SC1,Cindy,South Carolina,3,946.0,South Carolina
+1959-07-25 00:00:00,0500Z,29.1N,95.2W,75,1,20,980,CTX1,Debra,Texas,1,980.0,Texas
+1959-09-29 00:00:00,1700Z,32.5N,80.4W,115,4,10,951,SC4,Gracie,South Carolina,4,951.0,South Carolina
+1960-09-10 00:00:00,1600Z,25.9N,81.6W,105,3,20,942,"BFL4,CFL4",Donna,Florida,4,930.0,"New York, Rhode Island, Florida, Massachusetts, Connecticut"
+1961-09-11 00:00:00,2000Z,28.3N,96.4W,125,4,20,931,"BTX4, CTX3, ATX1",Carla,Texas,4,931.0,Texas
+1964-08-27 00:00:00,0800Z,25.8N,80.1W,95,2,10,968,CFL2,Cleo,Florida,2,968.0,Florida
+1964-09-10 00:00:00,0600Z,29.9N,81.3W,95,2,5,966,DFL2,Dora,Florida,2,966.0,Florida
+1964-10-03 00:00:00,2300Z,29.5N,91.5W,90,2,35,959,LA2,Hilda,Louisiana,2,959.0,Louisiana
+1964-10-14 00:00:00,2100Z,25.8N,81.4W,90,2,20,970,"BFL2, CFL1",Isbell,Florida,2,970.0,Florida
+1965-09-08 00:00:00,1100Z,25.0N,80.5W,100,3,30,952,"BFL3, CFL3",Betsy,Florida,4,946.0,Florida
+1966-06-08 00:00:00,1900Z,24.6N,82.7W,100,3,---,962,BFL3,Alma,Florida,3,962.0,Florida
+1966-10-04 00:00:00,1800Z,25.0N,80.5W,85,2,15,984,CFL2,Inez,Florida,2,984.0,Florida
+1967-09-20 00:00:00,1200Z,25.9N,97.2W,100,3,10,940,ATX3,Beulah,Texas,3,940.0,Texas
+1968-10-19 00:00:00,0400Z,28.7N,82.7W,85,2,10,978,"AFL2, DFL1",Gladys,Florida,2,978.0,Florida
+1969-08-18 00:00:00,0400Z,30.3N,89.4W,150,5,5,900,"MS5, LA5, AL1",Camille,"Mississippi, Louisiana, Alabama",5,900.0,"Mississippi, Louisiana, Alabama"
+1970-08-03 00:00:00,2100Z,27.8N,97.1W,120,4,10,944,ATX4,Celia,Texas,4,944.0,Texas
+1983-08-18 00:00:00,0700Z,29.1N,95.1W,100,3,10,962,CTX3,Alicia,Texas,3,962.0,Texas
+1984-09-13 00:00:00,0700Z,33.9N,78.0W,95,2,15,979,NC2,Diana,North Carolina,2,979.0,North Carolina
+1985-07-25 00:00:00,0300Z,32.2N,80.5W,65,1,20,1003,SC1,Bob,South Carolina,2,962.0,South Carolina
+1985-08-15 00:00:00,1630Z,29.6N,92.7W,80,1,15,987,LA1,Danny,Louisiana,1,984.0,Louisiana
+1985-09-02 00:00:00,1300Z,30.4N,89.2W,100,3,10,959,"AL3,MS3,AFL3",Elena,"Alabama, Florida, Mississippi",3,959.0,"Alabama, Florida, Mississippi"
+1985-09-27 00:00:00,0530Z,35.2N,75.6W,90,2,15,942,NC3,Gloria,North Carolina,2,942.0,"North Carolina, Maine, New Hampshire, New York, Connecticut"
+1985-10-29 00:00:00,1100Z,29.5N,91.4W,75,1,15,971,LA1,Juan,Louisiana,1,971.0,Louisiana
+1985-11-21 00:00:00,2230Z,30.0N,85.4W,85,2,10,967,"AFL2,IGA1",Kate,"Florida, Georgia",2,967.0,"Florida, Georgia"
+1986-06-26 00:00:00,0900Z,29.5N,94.2W,75,1,10,990,CTX1,Bonnie,Texas,2,964.0,Texas
+1986-08-17 00:00:00,1400Z,34.7N,76.5W,65,1,15,990,NC1,Charley,North Carolina,4,941.0,North Carolina
+1987-10-12 00:00:00,2100Z,25.1N,80.5W,65,1,10,993,BFL,Floyd,Florida,2,956.0,Florida
+1988-09-09 00:00:00,2300Z,28.5N,89.3W,70,1,15,984,LA1,Florence,Louisiana,1,956.0,Louisiana
+1989-08-01 00:00:00,1300Z,29.6N,94.4W,70,1,15,986,CTX1,Chantal,Texas,1,986.0,Texas
+1989-09-22 00:00:00,0400Z,32.8N,79.8W,120,4,20,934,"SC4,INC1",Hugo,"North Carolina, South Carolina",4,934.0,"North Carolina, South Carolina"
+1989-10-16 00:00:00,0030Z,29.2N,95.0W,75,1,10,983,CTX1,Jerry,Texas,1,983.0,Texas
+1991-08-19 00:00:00,1720Z,41.2N,71.6W,90,2,25,962,"RI2,MA2,NY2,CT2",Bob,"Rhode Island, New York, Massachusetts, Connecticut",2,962.0,"Rhode Island, New York, Massachusetts, Connecticut"
+1992-08-24 00:00:00,0905Z,25.5N,80.3W,145,5,10,922,"CFL5,BFL4",Andrew,Florida,5,922.0,Florida
+1993-08-31 00:00:00,2100Z,35.2N,75.1W,100,3,30,961,NC3,Emily,North Carolina,3,961.0,North Carolina
+1995-08-02 00:00:00,0615Z,27.7N,80.3W,75,1,40,984,CFL1,Erin,Florida,2,973.0,Florida
+1995-10-04 00:00:00,2200Z,30.3N,87.1W,100,3,50,942,"AFL3,IAL1",Opal,"Florida, Alabama",3,942.0,"Florida, Alabama"
+1996-07-12 00:00:00,2000Z,34.3N,77.8W,90,2,40,974,NC2,Betha,North Carolina,2,974.0,North Carolina
+1996-09-06 00:00:00,0030Z,33.9N,78.0W,100,3,40,954,NC3,Fran,North Carolina,3,954.0,North Carolina
+1997-07-18 00:00:00,0900Z,29.3N,89.7W,65,1,10,989,LA1,Danny,Louisiana,1,984.0,"Alabama, Louisiana"
+1998-08-27 00:00:00,0400Z,34.4N,77.7W,95,2,60,964,NC2,Bonnie,North Carolina,2,964.0,North Carolina
+1998-09-03 00:00:00,0600Z,30.1N,85.7W,70,1,70,987,AFL1,Earl,Florida,1,987.0,Florida
+1998-09-25 00:00:00,1530Z,24.5N,81.8W,90,2,25,981,BFL2,Georges,Florida,2,964.0,Florida
+1999-08-23 00:00:00,0000Z,26.9N,97.4W,100,3,10,951,ATX3,Bret,Texas,3,951.0,Texas
+1999-09-16 00:00:00,0630Z,33.8N,78.0W,90,2,35,956,NC2,Floyd,North Carolina,2,956.0,North Carolina
+1999-10-15 00:00:00,2000Z,25.3N,81.1W,70,1,40,987,BFL1,Irene,Florida,2,952.0,Florida
+2002-10-03 00:00:00,1300Z,29.5N,92.2W,80,1,10,963,LA1,Lili,Louisiana,1,963.0,Louisiana
+2003-07-15 00:00:00,1530Z,28.3N,96.2W,80,1,15,979,BTX1,Claudette,Texas,1,979.0,Texas
+2003-09-18 00:00:00,1700Z,34.9N,76.2W,90,2,40,957,NC2,Isabel,North Carolina,2,957.0,North Carolina
+2004-08-03 00:00:00,1700Z,35.1N,75.4W,70,1,15,972,NC1,Alex,North Carolina,1,972.0,North Carolina
+2004-08-13 00:00:00,1945Z,26.6N,82.2W,130,4,5,941,BFL4,Charley,Florida,4,941.0,"Florida, South Carolina"
+2004-08-29 00:00:00,1400Z,33.0N,79.6W,65,1,10,985,SC1,Gaston,South Carolina,1,985.0,South Carolina
+2004-09-05 00:00:00,0430Z,27.2N,80.2W,90,2,30,960,"CFL2,BFL1",Frances,Florida,2,960.0,Florida
+2004-09-16 00:00:00,0650Z,30.2N,87.9W,105,3,25,946,"AL3,AFL3",Ivan,"Alabama, Florida",3,946.0,"Alabama, Florida"
+2004-09-26 00:00:00,0400Z,27.2N,80.2W,105,3,45,950,"CFL3,BFL1,AFL1",Jeanne,Florida,3,950.0,Florida
+2005-07-06 00:00:00,0300Z,29.2N,90.1W,65,1,20,991,LA1,Cindy,Louisiana,3,946.0,Louisiana
+2005-08-25 00:00:00,2230Z,26.0N,80.1W,70,1,15,984,"CFL1,BFL1",Katrina,Florida,3,920.0,"Florida, Louisiana, Mississippi, Alabama"
+2005-09-15 00:00:00,0600Z,34.5N,76.3W,65,1,---,982,NC1,Ophelia,North Carolina,1,982.0,North Carolina
+2005-09-24 00:00:00,0740Z,29.7N,93.7W,100,3,20,937,"LA3,CTX2",Rita,"Louisiana, Texas",3,937.0,"Louisiana, Texas"
+2005-10-24 00:00:00,1030Z,25.9N,81.7W,105,3,25,950,"BFL3,CFL2",Wilma,Florida,3,950.0,Florida
+2007-09-13 00:00:00,0700Z,29.6N,94.3W,80,1,10,985,"CTX1,LA1",Humberto,"Louisiana, Texas",1,985.0,"Louisiana, Texas"
+2008-07-23 00:00:00,2000Z,26.4N,97.4W,70,1,10,967,ATX1,Dolly,Texas,1,967.0,Texas
+2008-09-01 00:00:00,1500Z,29.2N,90.7W,90,2,25,954,LA2,Gustav,Louisiana,2,954.0,Louisiana
+2008-09-13 00:00:00,0700Z,29.3N,94.7W,95,2,30,950,"CTX2,LA1",Ike,"Louisiana, Texas",2,950.0,"Louisiana, Texas"
+2011-08-27 00:00:00,1200Z,34.7N,76.6W,75,1,45,952,NC1,Irene,North Carolina,2,952.0,North Carolina
+2012-08-29 00:00:00,0000Z,28.9N,89.4W,70,1,40,967,LA1,Isaac,Louisiana,1,966.0,Louisiana
+2012-10-29 00:00:00,2035Z,38.7N,73.9W,65,1,80,942,NY1,Sandy,New York,1,942.0,New York
+2014-07-04 00:00:00,0315Z,34.7N,76.6W,85,2,20,973,NC2,Arthur,North Carolina,2,973.0,North Carolina
+2016-09-02 00:00:00,0530Z,30.1N,84.1W,70,1,20,981,AFL1,Hermine,Florida,1,981.0,Florida
+2016-10-08 00:00:00,1500Z,33.0N,79.5W,85,2,---,963,"DFL2, GA1, SC1, NC1",Matthew,"North Carolina, Florida, South Carolina, Georgia",2,963.0,"North Carolina, Florida, South Carolina, Georgia"
+2017-08-26 00:00:00,0600Z,28.2N,97.1W,105,3,10,948,BTX4,Harvey,Texas,4,937.0,Texas
+2017-09-10 00:00:00,1930Z,25.9N,81.7W,100,3,15,936,"BFL4,CFL1",Irma,Florida,4,931.0,Florida
+2017-10-08 00:00:00,0000Z,29.1N,89.2W,75,1,15,983,LA1,Nate,Louisiana,1,983.0,"Mississippi, Louisiana"
+2018-09-14 00:00:00,1115Z,34.2N,77.8W,80,1,25,956,NC1,Florence,North Carolina,1,956.0,North Carolina
+2018-10-10 00:00:00,1730Z,30.0N,85.5W,140,5,10,919,"AFL5,I-GA2,AL1",Michael,"Florida, Georgia, Alabama",5,919.0,"Florida, Georgia, Alabama"
+2019-07-13 00:00:00,1500Z,29.6N,92.2W,65,1,40,993,LA1,Barry,Louisiana,1,993.0,Louisiana
+2019-09-06 00:00:00,1230Z,35.2N,75.6W,85,2,20,956,NC2,Dorian,North Carolina,2,956.0,North Carolina
+2020-07-25 00:00:00,2200Z,26.8N,97.3W,80,1,20,973,ATX1,Hanna,Texas,1,973.0,Texas
+2020-08-04 00:00:00,0310Z,33.9N,78.5W,80,1,25,986,"SC1,NC1",Isaias,"North Carolina, South Carolina",1,986.0,"North Carolina, South Carolina"
+2020-08-27 00:00:00,0600Z,29.8N,93.3W,130,4,15,939,"LA4,CTX1",Laura,"Louisiana, Texas",4,939.0,"Louisiana, Texas"
+2020-09-16 00:00:00,0945Z,30.3N,87.7W,95,2,15,965,"AFL2,AL2",Sally,"Florida, Alabama",2,965.0,"Florida, Alabama"
+2020-10-09 00:00:00,2300Z,29.8N,93.1W,85,2,15,970,LA2,Delta,Louisiana,2,970.0,Louisiana
+2020-10-28 00:00:00,2100Z,29.2N,90.6W,100,3,20,970,"LA3, MS2, I-AL1",Zeta,"Mississippi, Louisiana, Alabama",3,970.0,"Mississippi, Louisiana, Alabama"
+2021-08-29 00:00:00,1655Z,29.1N,90.2W,130,4,10,931,LA4,Ida,Louisiana,4,931.0,Louisiana
+2021-09-29 00:00:00,0530Z,28.7N,95.7W,65,1,20,991,CTX1,Nicholas,Texas,1,991.0,Texas
+2022-09-28 00:00:00,1905Z,26.7N,82.2W,130,4,20,941,BFL4,Ian,Florida,4,941.0,"North Carolina, Florida"
+2023-08-30 00:00:00,1145Z,29.9N,83.6W,100,3,10,950,"AFL3, IGA1",Idalia,"Florida, Georgia",3,950.0,"Florida, Georgia"
